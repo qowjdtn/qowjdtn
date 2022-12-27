@@ -1,0 +1,1 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=noctis_minimus&show_icons=true)
